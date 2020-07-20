@@ -1,0 +1,9 @@
+# WEB ADMIN, CRUD NEWS:
+- NEWS
+- CATEGORY NEWS
+- COMMENT
+- TAGS
+
+# LOGIN :
+- EMAIL : admin@admin.com
+- PASSWORD : admin
